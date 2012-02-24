@@ -1,0 +1,20 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="collective.js.jcarousel">
+
+  <browser:resourceDirectory
+    name="collective.js.jcarousel"
+    directory="resources"
+    />
+
+  <genericsetup:registerProfile
+      name="default"
+      title="collective.js.jcarousel"
+      directory="profiles/default"
+      description='Extension profile for collective.js.jcarousel.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+</configure>
