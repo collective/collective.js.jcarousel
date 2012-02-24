@@ -3,7 +3,7 @@ Introduction
 
 This addon register JCarousel_ JQuery plugin in Plone's resource registries.
 
-version: 
+version: 0.2.8 
 
 About JCarousel
 ===============
@@ -24,6 +24,10 @@ Companies
 Authors
 
   - JeanMichel FRANCOIS aka toutpt <toutpt@gmail.com>
+
+Contributors
+
+  - Espen Moe-Nilssen <espen@medialog.no>
 
 .. |makinacom| image:: http://depot.makina-corpus.org/public/logo.gif
 .. _makinacom:  http://www.makina-corpus.com
