@@ -3,7 +3,7 @@ Introduction
 
 This addon register JCarousel_ JQuery plugin in Plone's resource registries.
 
-version: 0.2.8 
+version: 0.2.8
 
 About JCarousel
 ===============
