@@ -1,6 +1,0 @@
-<layers>
-<!-- uncomment to activate
-    <layer name="collective.js.jcarousel"
-           interface="collective.js.jcarousel.interfaces.ILayer" />
--->
-</layers>
